@@ -5,7 +5,10 @@
       "namespace": "android_app",
       "package_name": "com.guvi.zenclass",
       "sha256_cert_fingerprints":
-        ["A6:3A:A6:08:9A:A4:F9:6F:D0:71:75:6E:31:6E:70:91:79:AD:62:B0:D9:09:A4:D6:E7:57:02:53:7B:7E:7D:0E"]
+        [
+          "A6:3A:A6:08:9A:A4:F9:6F:D0:71:75:6E:31:6E:70:91:79:AD:62:B0:D9:09:A4:D6:E7:57:02:53:7B:7E:7D:0E",
+          "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+        ]
     }
   }
 ]
