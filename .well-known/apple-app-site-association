@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+           {
+             "appID": "WGH638FUSQ.com.guvi.zenclass", 
+             "paths": [ "*" ]
+           }
+       ]
+   }
+}
